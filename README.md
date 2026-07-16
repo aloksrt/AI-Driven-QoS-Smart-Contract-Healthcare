@@ -1,3 +1,3 @@
-# scripts
+# smart_contracts
 
-Store helper scripts for deployment, testing, automation, and CI/CD.
+Store Solidity smart contracts such as HealthcareQoS.sol, AccessControl.sol, PriorityManager.sol, and related deployment scripts.
