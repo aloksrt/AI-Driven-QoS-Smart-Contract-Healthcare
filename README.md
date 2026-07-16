@@ -1,3 +1,3 @@
-# smart_contracts
+# ai_models
 
-Store Solidity smart contracts such as HealthcareQoS.sol, AccessControl.sol, PriorityManager.sol, and related deployment scripts.
+Store AI models including RoBERTa-LSTM implementation, anomaly detection, training, and inference scripts.
