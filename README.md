@@ -1,3 +1,3 @@
-# docs
+# figures
 
-Store deployment guide, user guide, API documentation, and supplementary documentation.
+Store architecture diagrams, workflow figures, and performance graphs used in the manuscript.
