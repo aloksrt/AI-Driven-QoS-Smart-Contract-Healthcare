@@ -1,3 +1,3 @@
-# kubernetes
+# monitoring
 
-Store Kubernetes deployment manifests including deployment.yaml, service.yaml, ingress.yaml, autoscaler.yaml, and namespace.yaml.
+Store Prometheus configuration, Grafana dashboards, and monitoring scripts.
