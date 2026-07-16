@@ -1,3 +1,3 @@
-# ai_models
+# datasets
 
-Store AI models including RoBERTa-LSTM implementation, anomaly detection, training, and inference scripts.
+Store experimental datasets (CSV/XLSX) supporting the manuscript results.
