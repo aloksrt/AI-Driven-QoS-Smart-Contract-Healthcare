@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: AI-Driven QoS-Aware Smart Contract Framework for Healthcare Blockchain Systems
+message: "Please cite this repository if you use it."
+type: software
+
+authors:
+  - family-names: Gupta
+    given-names: Alok
+  - family-names: Lakhwani
+    given-names: Kamlesh
+  - family-names: Wikhe
+    given-names: Shalaka
+
+repository-code: https://github.com/aloksrt/AI-Driven-QoS-Smart-Contract-Healthcare
+
+license: MIT
