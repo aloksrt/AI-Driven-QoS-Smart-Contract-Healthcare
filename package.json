@@ -1,1 +1,27 @@
+{
+  "name": "ai-driven-healthcare-blockchain",
+  "version": "1.0.0",
+  "description": "AI-Driven QoS-Aware Smart Contract Framework for Healthcare Blockchain Systems",
+  "author": "Alock Gupta",
+  "license": "MIT",
 
+  "scripts": {
+    "compile": "hardhat compile",
+    "clean": "hardhat clean",
+    "test": "hardhat test",
+    "node": "hardhat node",
+    "deploy": "hardhat run scripts/deploy.js",
+    "deploy:local": "hardhat run scripts/deploy.js --network localhost",
+    "deploy:sepolia": "hardhat run scripts/deploy.js --network sepolia"
+  },
+
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "dotenv": "^16.4.5",
+    "hardhat": "^2.22.7"
+  },
+
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2"
+  }
+}
