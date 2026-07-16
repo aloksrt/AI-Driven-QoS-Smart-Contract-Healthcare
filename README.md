@@ -1,3 +1,3 @@
-# figures
+# kubernetes
 
-Store architecture diagrams, workflow figures, and performance graphs used in the manuscript.
+Store Kubernetes deployment manifests including deployment.yaml, service.yaml, ingress.yaml, autoscaler.yaml, and namespace.yaml.
