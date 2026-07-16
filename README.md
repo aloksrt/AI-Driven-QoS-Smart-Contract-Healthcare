@@ -1,3 +1,3 @@
-# monitoring
+# scripts
 
-Store Prometheus configuration, Grafana dashboards, and monitoring scripts.
+Store helper scripts for deployment, testing, automation, and CI/CD.
