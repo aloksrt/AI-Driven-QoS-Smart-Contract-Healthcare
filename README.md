@@ -1,3 +1,3 @@
-# datasets
+# docs
 
-Store experimental datasets (CSV/XLSX) supporting the manuscript results.
+Store deployment guide, user guide, API documentation, and supplementary documentation.
